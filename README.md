@@ -24,10 +24,7 @@ This project was developed with the following technologies:
 - [Node](https://nodejs.org/en/)
 - [AdonisJS](https://adonisjs.com/)
 
-## Usage
-
- ### Web App
-  
+## Usage  
     $ yarn
     
     $ yarn start
